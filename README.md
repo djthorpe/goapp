@@ -42,5 +42,15 @@ order to run tests and compile command-line binaries:
 You don't need to use a Makefile as part of your toolchain,
 however.
 
+## Future enhancements
+
+There are some possible future enhancements to this template
+repository:
+
+  * Add cross compilation building to other platforms;
+  * Integrate CI pipelines like CircleCI and Github Actions;
+  * Add packaging and releasing steps.
+
+Let me know if these steps are useful for you.
 
 
