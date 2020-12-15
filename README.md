@@ -28,6 +28,9 @@ The following folders within the repository should be used:
 You include packages into your binaries as per the example
 in this package (which you can delete).
 
+Finally, replace this `README.md` file with something more
+appropriate for your repository.
+
 ## Using a Makefile
 
 The `Makefile` example assumes you are using GNU Make in
